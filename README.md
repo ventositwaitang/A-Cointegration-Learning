@@ -15,7 +15,7 @@ Delta convergence with drift term
 KPSS_Cointegration.ipynb
 ```
 
-Pairs Casualty test with ARIMA Forecast research
+Pairs Casualty test with ARIMA Forecast Research
 ```bash
 Pairs Trading Strategy Study with ARIMA Model Forecasting.pdf
 ```
