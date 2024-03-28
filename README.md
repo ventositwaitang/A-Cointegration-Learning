@@ -18,6 +18,7 @@ Pairs Casualty test with ARIMA Forecast Research
 Pairs Trading Strategy Study with ARIMA Model Forecasting.pdf
 ```
 
-### future direction
-to be refined by Grid Search for time-window & stop-profit hyper-param, and calibrating divergent adjusting factor (a basin hopping parameter for long-term drift, with Nadam iteration)
-Model by Linear/ Quadratic(non-linear) Gaussian with neural autograd
+### Future direction
+* to be refined by Grid Search for time-window & stop-profit hyper-param, and calibrating divergent adjusting factor (a basin hopping parameter for long-term drift, with Nadam iteration)
+
+* Model by Linear/ Quadratic(non-linear) Gaussian with neural autograd
