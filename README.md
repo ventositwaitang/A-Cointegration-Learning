@@ -1,5 +1,5 @@
 # Cointegration 
-Cointegration is the key trigger in statistical arbitrage for correlated pair rather than simple mean reversion in pair trading
+Cointegration is the key trigger in statistical arbitrage for correlated pair
 
 ## Navigation
 [Pairs Casuality test with ARIMA Forecast Research](https://github.com/ventositwaitang/A-Cointegration-Learning/blob/main/Pairs%20Trading%20Strategy%20Study%20with%20ARIMA%20Model%20Forecasting.pdf)
