@@ -2,7 +2,7 @@
 Cointegration is the key trigger in statistical arbitrage for correlated pair
 
 ## Navigation
-[Pairs Casuality test with ARIMA Forecast Research](https://github.com/ventositwaitang/A-Cointegration-Learning/blob/main/Pairs%20Trading%20Strategy%20Study%20with%20ARIMA%20Model%20Forecasting.pdf)
+[Pairs Casuality Research with ARIMA Forecasting](https://github.com/ventositwaitang/A-Cointegration-Learning/blob/main/Pairs%20Trading%20Strategy%20Study%20with%20ARIMA%20Model%20Forecasting.pdf)
 
 Explanation of Homoscedasticity with normal diffused (white noise)
 ```bash
