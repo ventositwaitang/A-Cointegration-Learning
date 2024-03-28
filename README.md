@@ -18,6 +18,6 @@ KPSS_Cointegration.ipynb
 ### Future direction
 * to be refined by Grid Search for time-window & stop-profit hyper-param, and calibrating divergent adjusting factor (a basin hopping parameter for long-term drift, with Nadam iteration)
 
-* adding momemtum(MA cross/RSI) in practice
+* adding momentum rules(MA cross/ RSI/ tailormade Alpha) in practice
 
 * as Multi-asset Pricing Model by Linear/ Quadratic(non-linear) Gaussian simulation with neural autograd
