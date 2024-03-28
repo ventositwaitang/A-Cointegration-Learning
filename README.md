@@ -9,7 +9,7 @@ Explanation of Homoscedasticity with normal diffused (white noise)
 ADF_Cointegration.ipynb
 ```
 
-Delta convergence with drift term
+Slope of return convergence with drift term
 ```bash
 KPSS_Cointegration.ipynb
 ```
