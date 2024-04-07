@@ -1,5 +1,6 @@
 # Cointegration 
 Cointegration is the key trigger in statistical arbitrage for correlated pair,  measuring inconsistency
+
 This algorithm implemented strong Monotonicity, guarantees convergence and stability properties, also implies cocoercivity
 
 ## Navigation
