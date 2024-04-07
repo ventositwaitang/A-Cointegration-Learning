@@ -1,7 +1,5 @@
 # Cointegration 
-Cointegration is the key trigger in statistical arbitrage for correlated pair,  measuring inconsistency
-
-This algorithm implemented strong Monotonicity, guarantees convergence and stability properties, also implies cocoercivity
+Cointegration is the key trigger in statistical arbitrage for correlated pair,  measuring inconsistency and stability properties
 
 ## Navigation
 [Pairs Casuality Research with ARIMA Forecasting](https://github.com/ventositwaitang/A-Cointegration-Learning/blob/main/Pairs%20Trading%20Strategy%20Study%20with%20ARIMA%20Model%20Forecasting.pdf)
