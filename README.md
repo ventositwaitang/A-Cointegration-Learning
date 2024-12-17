@@ -2,7 +2,6 @@
 Cointegration is the key trigger in statistical arbitrage for correlated pair,  measuring inconsistency and stability properties
 
 ## Navigation
-[Pairs Casuality Research with ARIMA Forecasting](https://github.com/ventositwaitang/A-Cointegration-Learning/blob/main/Pairs%20Trading%20Strategy%20Study%20with%20ARIMA%20Model%20Forecasting.pdf)
 
 Explanation of Homoscedasticity with normal diffused (white noise)
 ```bash
@@ -14,6 +13,8 @@ diffusion convergence with drift term
 ```bash
 KPSS_Cointegration.ipynb
 ```
+
+Thesis: [A Pairs Casuality Research with ARIMA Forecasting](https://github.com/ventositwaitang/A-Cointegration-Learning/blob/main/Pairs%20Trading%20Strategy%20Study%20with%20ARIMA%20Model%20Forecasting.pdf)
 
 ### Future direction
 * to be refined by Grid Search for time-window & stop-profit hyper-param, and calibrating divergent adjusting factor (Cocoercivity, a basin hopping parameter for long-term drift, with Nadam iteration)
