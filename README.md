@@ -19,6 +19,7 @@ Thesis: [A Pairs Causality Research with ARIMA Forecasting](https://github.com/v
 ### Future direction
 * to be refined by Grid Search for time-window & stop-profit hyper-param, and calibrating divergent adjusting factor (Cocoercivity, a basin hopping parameter for long-term drift)
 
-* adding momentum rules(MA cross/ RSI/ tailormade Alpha) in practice
+* adding momentum rules(MA cross/ RSI/ tailormade Alpha) in practice (Hurst exponent>0.5: Long Vol by trending α momentum; Hurst exponent<0.5: Short Vol by Mean Reversion)
 
 * as Multi-asset Pricing Model by Second-Order Cone Programming (Solver for Linear/ Quadratic(non-linear) Gaussian simulation) with neural autograd
+
